@@ -7,7 +7,7 @@ as of right now, i will be dedicating the next few weeks to my end of year exams
 - João.
 ## 🇵🇹 🇧🇷 (Inglês acima)
 ## olá,
-sou o joão, um adolescente dedicado ao estudo de código à procura de ter um maior conhecimento nas várias coisas que o complementam. ressuscitei esta conta do github de forma a ter um lugar onde posso dar opload de todo o meu trabalho, o que também acaba por me forçar a escrever código decentemente legível que funcione. o github também me mantém constante e obriga-me a trabalhar um pouco em direção ao meu objetivo, todos os dias.
+sou o joão, um adolescente dedicado ao estudo de código à procura de ter um maior conhecimento nas várias coisas que o complementam. ressuscitei esta conta do github de forma a ter um lugar onde posso dar upload de todo o meu trabalho, o que também acaba por me forçar a escrever código decentemente legível que funcione. o github também me mantém constante e obriga-me a trabalhar um pouco em direção ao meu objetivo, todos os dias.
 ##
 por agora, vou dedicar as próximas semanas aos meus exames nacionais (de geometria e de físicoquímica) e ao evento nights and weekends, 5ª temporada, criado e possibilitado pela equipa buildspace, porque o acesso a uma comunidade como aquela é simplesemente impagável.
 ## obrigado por ler o meu README. por favor considere uma leitura rápida dos meus interesses, listados no meu ficheiro INTERESTS, neste mesmo respositório. obrigado mais uma vez.
